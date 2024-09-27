@@ -131,4 +131,55 @@ document.getElementById('contactForm').addEventListener('submit', async function
     }
 });
 
+/////////////SAV///////////////
+const couponCodes = ['RW51', 'RW29', 'RW05', 'RW85'];
+
+const mealPreference = document.getElementById('mealPreference');
+const mealType = document.getElementById('mealType');
+const subscription = document.getElementById('subscription');
+const quantity = document.getElementById('quantity');
+const couponInput = document.getElementById('coupon');
+const subTotalElement = document.getElementById('subtotal');
+const discountElement = document.getElementById('discount');
+const totalElement = document.getElementById('total');
+
+function calculateTotal() {
+    const mealPreferencePrice = parseInt(mealPreference.value) || 0;
+    const mealTypePrice = parseInt(mealType.value) || 0;
+    const subscriptionMonths = parseInt(subscription.value) || 0;
+    const quantityValue = parseInt(quantity.value) || 1;
+
+    // Calculate subtotal: (Meal Preferences + Meal Type) * Subscription months * Quantity
+    let subTotal = (mealPreferencePrice + mealTypePrice) * subscriptionMonths * quantityValue;
+
+    // Check if a valid coupon code is entered
+    let discount = 0;
+    const couponCode = couponInput.value.trim();
+    if (couponCodes.includes(couponCode)) {
+        discount = subTotal * 0.1; // 10% discount
+        couponMessage.style.display = 'none'; // Hide error message
+        couponSection.style.display = 'none'; // Hide the coupon section after applying
+    } else if (couponCode) {
+        couponMessage.style.display = 'block';
+        couponMessage.innerText = "Invalid Coupon Code!";
+        discount = 0;
+    }
+
+    const total = subTotal - discount;
+
+    // Update the UI
+    subTotalElement.innerText = subTotal;
+    discountElement.innerText = Math.round(discount);
+    totalElement.innerText = Math.round(total);
+}
+
+mealPreference.addEventListener('change', calculateTotal);
+mealType.addEventListener('change', calculateTotal);
+subscription.addEventListener('change', calculateTotal);
+quantity.addEventListener('change', calculateTotal);
+document.getElementById('applycode').addEventListener('click', calculateTotal);
+
+calculateTotal();
+
+
 
