@@ -25,7 +25,7 @@
 ### Screenshots
 
 - **Home Page Image** 
-<img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/index.png" width="50%" height="50%"/>
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/about.png" width="50%" height="50%"/>
 
 - **About Page Image** 
 <img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/about.png" width="50%" height="50%"/>
