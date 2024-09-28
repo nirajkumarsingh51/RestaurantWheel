@@ -7,7 +7,7 @@
 - [Responsibility](#responsibility)
 - [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
-- [Team Member](#https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/README.md#team-member)
+- [Team Member](#team-member)
 - [Live Project](#live-project)
 
   
@@ -59,8 +59,8 @@
 
 ### Team Member 
 <strong> Niraj Kumar Singh ("Devloper & Team leader") <br></strong>
--Asmit Kumar ("Assistant Developer") <br>
--Esha Kumari ("Design Lead") <br>
+<strong> Asmit Kumar ("Assistant Developer") <br></strong>
+<strong> Esha Kumari ("Design Lead")  <br></strong>
 <img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/Team.png" width="50%" height="50%"/>
 
 
