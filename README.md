@@ -67,10 +67,10 @@
 
 ### Dependencies
 
-- [Jquery](https://code.jquery.com/jquery-3.2.1.min.js) <br/>
+- [Jquery](https://jquery.com/) <br/>
 - [Bootstrap 3.3](https://getbootstrap.com/docs/3.3/) <br/>
-- [Owl carousel](https://owlcarousel2.github.io/OwlCarousel2/demos/responsive.html) <br/>
-- [Wow Js](http://mynameismatthieu.com/WOW/) <br/>
+- [Owl carousel](https://owlcarousel2.github.io/OwlCarousel2/) <br/>
+- [Wow Js](https://wowjs.uk/) <br/>
 
 ## Live Project
 - [Restaurant Wheel](https://restaurant-wheel.vercel.app/index.html)
