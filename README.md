@@ -57,7 +57,7 @@
 <img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/snack.png" width="50%" height="50%"/>
 
 ### Team Member 
--Niraj Kumar Singh ("Devloper & Team leader")
+-Niraj Kumar Singh ("Devloper & Team leader") <br>
 -Asmit Kumar ("Assistant Developer")
 -Esha Kumari ("Design Lead")
 <img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/Team.png" width="50%" height="50%"/>
