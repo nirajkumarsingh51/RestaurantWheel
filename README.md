@@ -22,6 +22,8 @@
 - Cross Browser Compatibility Checking
 - UI Design
 - Front End Development
+- Chat Boat
+- Email Notification 
 - Photoshop Designs
 - Logo Design
 
