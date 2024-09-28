@@ -7,8 +7,9 @@
 - [Responsibility](#responsibility)
 - [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
-- [Team Member](#teammember)
+- [Team Member](#https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/README.md#team-member)
 - [Live Project](#live-project)
+
   
 
 ### About RestaurantWheel
