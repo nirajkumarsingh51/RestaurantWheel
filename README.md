@@ -28,31 +28,31 @@
 <img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/about.png" width="50%" height="50%"/>
 
 - **About Page Image** 
-<img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/about.png" width="50%" height="50%"/>
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/about.png" width="50%" height="50%"/>
 
 - **Contact Page Image** 
-<img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/contact.png" width="50%" height="50%"/>
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/contact.png" width="50%" height="50%"/>
 
 - **Cart Page Image** 
-<img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/cart.png" width="50%" height="50%"/>
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/cart.png" width="50%" height="50%"/>
 
 - **Checkout Page Image** 
-<img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/checkout.png" width="50%" height="50%"/>
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/checkout.png" width="50%" height="50%"/>
 
 - **Booktable Page Image** 
-<img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/booktable.png" width="50%" height="50%"/>
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/booktable.png" width="50%" height="50%"/>
 
 - **Gallery Page Image** 
-<img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/gallery.png" width="50%" height="50%"/>
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/gallery.png" width="50%" height="50%"/>
 
 - **Ordernow Page Image** 
-<img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/ordernow.png" width="50%" height="50%"/>
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/ordernow.png" width="50%" height="50%"/>
 
 - **Signin Page Image** 
-<img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/sign.png" width="50%" height="50%"/>
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/sign.png" width="50%" height="50%"/>
 
 - **Snacks Page Image** 
-<img src="https://github.com/pras75299/RestaurantWheel/blob/master/screenshots/snack.png" width="50%" height="50%"/>
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/snack.png" width="50%" height="50%"/>
 
 
 ### Dependencies
