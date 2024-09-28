@@ -63,7 +63,7 @@
 - [Wow Js](http://mynameismatthieu.com/WOW/) <br/>
 
 ## Live Project
-- [Restaurant Wheel](https://pras75299.github.io/RestaurantWheel/)
+- [Restaurant Wheel](https://restaurant-wheel.vercel.app/index.html)
 
 
 
