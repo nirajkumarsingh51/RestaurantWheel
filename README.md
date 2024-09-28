@@ -7,7 +7,9 @@
 - [Responsibility](#responsibility)
 - [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
+- [Team Member](#team member)
 - [Live Project](#live-project)
+  
 
 ### About RestaurantWheel
 - This website based on a corporate tiffin service, it's have the facility of online food and snacks ordering so user don't need to hustle in the queue for lunch or favourite snacks, and It's also have feature of table booking in case you have urgent meeting than book a table for you and meet whoever you want to.
@@ -53,6 +55,13 @@
 
 - **Snacks Page Image** 
 <img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/snack.png" width="50%" height="50%"/>
+
+### Team Member 
+Niraj Kumar Singh ("Devloper & Team leader")
+Asmit Kumar ("Assistant Developer")
+Esha Kumari ("Design Lead")
+<img src="https://github.com/nirajkumarsingh51/RestaurantWheel/blob/master/screenshots/Team.png" width="50%" height="50%"/>
+
 
 
 ### Dependencies
