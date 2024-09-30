@@ -15,7 +15,7 @@ const districtLocationMap = {
     "Delhi": ["India Gate", "Red Fort", "Qutub Minar"],
     "Gurgaon": ["Kingdom of Dreams", "Cyber Hub", "Sheetala Mata Mandir"],
     "Kolkata": ["Victoria Memorial", "Howrah Bridge", "Dakshineswar Kali Temple"],
-    "Patna": ["Rajendra Nagar", "Boring Road", "Kankarbagh", "Buddha Colony", "Gandhi Maidan", "PMC", "Bazar Samiti", "Musallahpur Hat", ],
+    "Patna": ["Rajendra Nagar", "Boring Road", "Kankarbagh", "Buddha Colony", "Gandhi Maidan", "PMCH", "Bazar Samiti", "Musallahpur Hat", ],
     "Gaya": ["Rampur", "AP Colony", "Chandauti"],
     "Bhagalpur": ["Rabindra Bhawan", "Bhagalpur Museum", "Vikramshila ruins", "Mobile Market"],
     "Muzaffarpur": ["Bhagwanpur", "Mithanpura", "Muzaffarpur Railway Station", "Muzaffarpur Park", "Bairia", "Saketpuri",],
