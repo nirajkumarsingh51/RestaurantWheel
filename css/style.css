@@ -5713,3 +5713,12 @@ body.popup-visible{
 	border-bottom:none;
 	padding-left:26%;
 	}}
+
+/* ABOUT Section    ----Class - Social medial */
+
+	.social-icon-two li a .fa-facebook-f { color: #4267B2; } /* Facebook */
+.social-icon-two li a .fa-twitter { color: #1DA1F2; } /* Twitter */
+.social-icon-two li a .fa-vine { color: #00B489; } /* Vine */
+.social-icon-two li a .fa-skyatlas { color: #0099CC; } /* SkyAtlas */
+.social-icon-two li a .fa-instagram { color: #E1306C; } /* Instagram */
+.social-icon-two li a .fa-linkedin-in { color: #0077B5; } /* LinkedIn */
