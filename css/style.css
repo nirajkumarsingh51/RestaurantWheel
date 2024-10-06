@@ -5722,3 +5722,18 @@ body.popup-visible{
 .social-icon-two li a .fa-skyatlas { color: #0099CC; } /* SkyAtlas */
 .social-icon-two li a .fa-instagram { color: #E1306C; } /* Instagram */
 .social-icon-two li a .fa-linkedin-in { color: #0077B5; } /* LinkedIn */
+
+/* Index file - --Special Dishes Section--> Gallery Carousel */
+.gallery-carousel .gallery-item .image-box img {
+    width: 500px; /* Adjust width as needed */
+    height: 400px; /* Adjust height as needed */
+    object-fit: cover; /* This will crop the image while maintaining aspect ratio */
+}
+
+/*  Gallery file ------Gallery Section */
+.gallery-item .image-box img {
+    width: 200%;  /* Makes the image take the full width of its container */
+    height: 350px;  /* Set a fixed height */
+    object-fit: cover;  /* Ensure the image is cropped without distorting it */
+}
+
