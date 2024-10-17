@@ -1,7 +1,7 @@
 <?php
 // Sendinblue API URL and API key
 $api_url = 'https://api.sendinblue.com/v3/smtp/email';
-$api_key = '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'; // Replace with your actual Sendinblue API key
+$api_key = 'Use your Api key '; // Replace with your actual Sendinblue API key
 
 // Get the user's email from the form submission
 $resetEmail = $_POST['resetEmail'];
