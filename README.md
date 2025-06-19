@@ -75,7 +75,7 @@
 - [Wow Js](https://wowjs.uk/) <br/>
 
 ## Live Project
-- [Restaurant Wheel](https://restaurant-wheel.vercel.app/index.html)
+- [Restaurant Wheel](https://restaurant-wheel-niraj.wuaze.com/?i=1)
 
 
 
